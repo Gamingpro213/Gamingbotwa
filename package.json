@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/gamingpro213/gamingbotwa"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "git+https://github.com/gamingpro213/gamingbotwa/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "git+https://github.com/gamingpro213/gamingbotwa#readme"
 }
